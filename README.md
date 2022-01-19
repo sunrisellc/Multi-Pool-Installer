@@ -36,7 +36,7 @@ Installation:
 Requires a fresh Ubuntu 16.04 or Ubuntu 18.04 installation.
 
 ```
-curl https://raw.githubusercontent.com/cryptopool-builders/sunrisellc/master/bootstrap.sh | bash
+curl https://raw.githubusercontent.com/sunrisellc/Multi-Pool-Installer/master/bootstrap.sh | bash
 ```
 
 Update:
@@ -44,7 +44,7 @@ Update:
 When a new release is made public updating is as simple as running the same command as above.
 
 ```
-curl https://raw.githubusercontent.com/cryptopool-builders/sunrisellc/master/bootstrap.sh | bash
+curl https://raw.githubusercontent.com/sunrisellc/Multi-Pool-Installer/master/bootstrap.sh | bash
 ```
 
 ## ▶️ Usage
